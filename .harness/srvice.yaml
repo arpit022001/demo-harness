@@ -1,0 +1,9 @@
+service:
+  name: service
+  identifier: service
+  serviceDefinition:
+    type: Ssh
+    spec: {}
+  gitOpsEnabled: false
+  orgIdentifier: default
+  projectIdentifier: demotest
